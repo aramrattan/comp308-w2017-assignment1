@@ -2,4 +2,6 @@
 
 ## Welcome to Arlina's Express Site
 
+#### Live Site (Heroku) - https://comp308-w2017-assignment1.herokuapp.com/
+
 please use **`npm install`** to install project dependencies
