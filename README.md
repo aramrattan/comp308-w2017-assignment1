@@ -1,5 +1,5 @@
-# COMP308-W2017-Lesson4A
+# COMP308-W2017-Assignment1
 
-## Welcome to Lesson 4 - Intro to MongoDB
+## Welcome to Arlina's Express Site
 
 please use **`npm install`** to install project dependencies
