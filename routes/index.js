@@ -24,13 +24,13 @@ router.get('/services', (req, res, next) => {
     title: 'Services'
    });
 });
-/* GET about page. */
+/* GET projects page. */
 router.get('/projects', (req, res, next) => {
   res.render('content/projects.ejs', {
     title: 'Projects'
    });
 });
-/* GET about page. */
+/* GET contact page. */
 router.get('/contact', (req, res, next) => {
   res.render('content/contact.ejs', {
     title: 'Contact'

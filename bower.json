@@ -1,9 +1,10 @@
 {
-  "name": "comp308-w2017-lesson4",
-  "description": "## Welcome to Lesson 4 - Intro to MongoDB",
+  "name": "comp308-w2017-assignment1",
+  "description": "## Assignment 1 Comp 308",
   "main": "server.js",
   "authors": [
-    "Tom Tsiliopoulos"
+    "Tom Tsiliopoulos",
+    "Arlina Ramrattan"
   ],
   "license": "ISC",
   "keywords": [
@@ -11,7 +12,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "homepage": "https://github.com/CentennialCollege/COMP308-W2017-Lesson4A",
+  "homepage": "https://github.com/aramrattan/comp308-w2017-assignment1",
   "ignore": [
     "**/.*",
     "node_modules",
