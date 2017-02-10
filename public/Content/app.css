@@ -1,7 +1,9 @@
 /* Custom CSS goes here */
 body {
-    background-color: #54F4E4;
+    background: linear-gradient(to bottom, white, #18B8A8, white);
+    
 }
-navbar-colour {
-    background-color: #18B8A8;
+gradient {
+    
 }
+
